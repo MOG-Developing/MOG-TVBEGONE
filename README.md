@@ -42,3 +42,4 @@ Go to [192.168.4.1](http://192.168.4.1) this after you connect to the AP.
 
 ---
 ## PHOTOS:
+![mog tvbegone](https://github.com/user-attachments/assets/68f1f11e-5db5-42f0-97f6-7b668c91779a)
