@@ -34,7 +34,8 @@ DAT (signal)       | GPIO4
 - Then you open the .ino file: File->>Open and select the file
 - Then you plug your ESP32WROOM32U to your computer. Select "ESP32 Dev Module" for the port.
 - Then you press the "Upload" button and hold boot button on the ESP32WROOM32U.
-** AND YOU'RE DONE!**
+
+**AND YOU'RE DONE!**
 After it's done it will appear as **"MOG-TVBEGONE"** and the password is **"TVBEGONE123"** *you can change this in the code*
 
 Go to [192.168.4.1](http://192.168.4.1) this after you connect to the AP.
