@@ -1,5 +1,8 @@
 # MOG-TVBEGONE
 
+![License](https://img.shields.io/github/license/MOG-Developing/MOG-TVBEGONE)
+
+
 ---
 
 ### MOG-TVBEGONE is a project for ESP32WROOM32U microcontrollers.
