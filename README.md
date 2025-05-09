@@ -1,6 +1,6 @@
 # MOG-TVBEGONE
 
-![License](https://img.shields.io/github/license/MOG-Developing/MOG-TVBEGONE)
+![License](https://img.shields.io/github/license/MOG-Developing/MOG-TVBEGONE) ![Stars](https://img.shields.io/github/stars/MOG-Developing/MOG-TVBEGONE?style=social)
 
 
 ---
