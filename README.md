@@ -39,7 +39,7 @@ DAT (signal)       | GPIO4
 - Then you press the "Upload" button and hold boot button on the ESP32WROOM32U.
 
 **AND YOU'RE DONE!**
-After it's done it will appear as **"MOG-TVBEGONE"** and the password is **"TVBEGONE123"** *you can change this in the code*
+After it's done it will appear as **"MOG-TVBEGONE"** wifi access point and the password is **"TVBEGONE123"** *you can change this in the code*
 
 Go to [192.168.4.1](http://192.168.4.1) this after you connect to the AP.
 
